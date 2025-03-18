@@ -1,6 +1,6 @@
 # Price Proxy
 
-...
+Solana on-chain program to collect price info from various preconfigured sources (SuperLendy, Pyth, Switchboard, custom off-chain oracle) and put it in to standard PriceProxy feed accounts. 
 
 ## CLI Examples
 
